@@ -39,7 +39,8 @@
 
 
 ## Python 코드로 Quene 살펴보기
-- Stack과 동일하게 Quene도 append(), pop() 함수를 사용함. 약간 다른점은 입력은 Stack과 Quene 똑같이 append()를 사용하지만 출력은 pop(0)을 사용한다는 점이다
+- Stack과 동일하게 Quene도 append(), pop() 함수를 사용함.  
+약간 다른점은 입력은 Stack과 Quene 똑같이 append()를 사용하지만 출력은 pop(0)을 사용한다는 점이다
 
 <pre> a = [1, 2, 3, 4] <code>
 a.append(5)
